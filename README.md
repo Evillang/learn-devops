@@ -1,2 +1,2 @@
 # my-first-project
-Мой учебный репозиторий.
+My DevOps learning path with notes, scripts and projects.
