@@ -1,34 +1,13 @@
-# learn-devops
-My DevOps learning path with notes, scripts and projects.
+# DevOps Learning Path by Evillang
 
-# My DevOps Learning Journey
+This repository documents my journey to become a DevOps engineer.
 
-## Goals
-- [ ] Learn Linux fundamentals
-- [ ] Master Git and GitHub
-- [ ] Learn Docker and containerization
-- [ ] Understand CI/CD pipelines
-- [ ] Learn Kubernetes basics
-- [ ] Get familiar with AWS cloud
-- [ ] Build a complete portfolio project
-
-## Progress Tracker
+## Current Progress
 - [x] Created GitHub account
-- [ ] ...
+- [x] First successful git push
+- [ ] Learning Linux basics
+- [ ] Learning Docker
 
-## Translate Goals:
-# Мой путь к обучению DevOps
-
-## Цели
-- [ ] Изучить основы Linux
-- [ ] Освоить Git и GitHub
-- [ ] Изучить Docker и контейнеризацию
-- [ ] Разобраться в конвейерах CI/CD
-- [ ] Изучить основы Kubernetes
-- [ ] Ознакомьтесь с AWS cloud
-- [ ] Создайте полноценное портфолио проектов
-      
-## Отслеживание прогресса
-- [x] Создал учетную запись на GitHub
-- [ ] ...
-
+## Repository Structure
+- week1/ - Linux studies
+- plan.txt - Learning plan
